@@ -1,6 +1,6 @@
 # Toy Robot Simulator
 
-The following should be written in Kotlin/Java
+The following should be written in Kotlin
 
 ## Description:
 - The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.  
